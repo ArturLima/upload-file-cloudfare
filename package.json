@@ -1,0 +1,14 @@
+{
+  "name": "upload-file",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ArturLima/upload-file-cloudfire.git",
+  "author": "Artur <arturpeixotoo@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fastify": "^4.25.2"
+  },
+  "devDependencies": {
+    "prisma": "^5.8.1"
+  }
+}
